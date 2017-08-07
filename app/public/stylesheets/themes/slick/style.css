@@ -89,6 +89,7 @@
 
 .slick-theme .flex-item .number {
   font-size: 25pt;
+  font-family: 'open_sans_condensedbold';
 }
 
 .slick-theme .flex-item .duration-block {
@@ -108,7 +109,7 @@
 
 .slick-theme .flex-item .status {
   float: left;
-  font-family: 'open_sans_condensedbold';
+  //font-family: 'open_sans_condensedbold';
   font-weight: bold;
   font-size: 25pt;
 }
